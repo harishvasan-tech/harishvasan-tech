@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Harish Vasan S
-**Aspiring DevOps Engineer | RHCSA Certified | B.E. Final Year | Chennai, India**
+**Aspiring DevOps Engineer | RHCSA Certified | B.E. Pre Final Year | Chennai, India**
 
 ---
 
