@@ -11,7 +11,7 @@
 - 🔧 Building real-world DevOps projects (Docker, CI/CD, AWS)  
 - ☁️ Currently working with AWS Cloud and learning Kubernetes  
 - 📦 Interested in automation, infrastructure, and scalable systems  
-- 🎓 B.E. Computer Science — Sri Sairam Engineering College  
+- 🎓 B.E. Computer Science - Sri Sairam Engineering College  
 
 ---
 
