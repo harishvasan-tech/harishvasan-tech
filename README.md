@@ -61,12 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishvasan-tech&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me  
 
 - 📧 sharishvasan@gmail.com  
