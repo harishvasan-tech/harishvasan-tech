@@ -70,22 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishvasan-tech&show_icons=true&theme=dark&hide_border=true)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishvasan-tech&layout=compact&theme=dark&hide_border=true)
-
-
-
----
-
 ## 🌱 Currently Learning
 
 - Terraform — Infrastructure as Code
