@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Harish Vasan S  
+# 👋 Hi, I'm Harish Vasan S
 
-💻 **Aspiring DevOps Engineer | RHCSA Certified | Cloud & Automation Enthusiast**  
-📍 Chennai, India  
-
----
-
-## 🚀 About Me  
-
-- 🐧 RHCSA Certified with strong Linux administration skills  
-- 🔧 Building real-world DevOps projects (Docker, CI/CD, AWS)  
-- ☁️ Currently working with AWS Cloud and learning Kubernetes  
-- 📦 Interested in automation, infrastructure, and scalable systems  
-- 🎓 B.E. Computer Science - Sri Sairam Engineering College  
+💻 **Aspiring DevOps Engineer | RHCSA Certified | Cloud & Automation Enthusiast**
+📍 Chennai, India
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
+
+- 🐧 RHCSA Certified with strong Linux administration skills
+- 🔧 Building real-world DevOps projects with Docker, CI/CD and AWS
+- ☁️ Hands-on experience with AWS EC2, S3, VPC, IAM and CloudWatch
+- 📦 Passionate about automation, infrastructure and scalable systems
+- 🎓 B.E. Computer Science — Sri Sairam Engineering College (2023–2027)
+
+---
+
+## 🛠️ Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -28,52 +28,78 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-### 🔹 Bash Automation Toolkit  
-🔗 https://github.com/harishvasan-tech/Bash-Scripts  
-- Automated backup system with logging and retention policy  
-- Cron-based scheduling for full automation  
-- Focus on reliability and system maintenance  
-
----
-
-### 🔹 Docker Compose Projects  
-🔗 https://github.com/harishvasan-tech/docker-compose-projects  
-- Multi-container applications using Docker Compose  
-- WordPress + MySQL deployment  
-- Container networking and persistent volumes  
+### 🔹 AWS Cloud Projects
+🔗 [github.com/harishvasan-tech/aws-projects](https://github.com/harishvasan-tech/aws-projects)
+- Launched EC2 and deployed multi-container app on cloud
+- Created S3 bucket with IAM role — zero hardcoded credentials
+- Built custom VPC with public subnet, Internet Gateway and route tables
+- Set up CloudWatch monitoring with CPU alarms and SNS notifications
 
 ---
 
-### 🔹 DevOps Application (CI/CD)  
-🔗 https://github.com/harishvasan-tech/devops-app  
-- Multi-container app with Nginx and MySQL  
-- CI/CD pipeline using GitHub Actions  
-- Automated build and deployment workflow  
+### 🔹 Bash Automation Toolkit
+🔗 [github.com/harishvasan-tech/Bash-Scripts](https://github.com/harishvasan-tech/Bash-Scripts)
+- Automated backup system with timestamped compression
+- Logging, backup rotation and cron scheduling
+- Input validation and production-grade error handling
 
 ---
 
-## 🏅 Certifications  
-
-- 🏆 Red Hat Certified System Administrator (RHCSA)  
-- 📜 NPTEL — Cloud Computing & IoT  
-
----
-
-## 📫 Connect With Me  
-
-- 📧 sharishvasan@gmail.com  
-- 💼 https://linkedin.com/in/harishvasan-tech  
+### 🔹 Docker Compose Projects
+🔗 [github.com/harishvasan-tech/docker-compose-projects](https://github.com/harishvasan-tech/docker-compose-projects)
+- Multi-container applications using Docker Compose
+- WordPress + MySQL deployed locally and on AWS EC2
+- Container networking, persistent volumes and environment variables
 
 ---
 
-## 🌱 Currently Learning  
-
-- AWS (VPC, S3, IAM, EC2 Deep Dive)  
-- Kubernetes  
-- Terraform (next step 🚀)  
+### 🔹 DevOps Application — CI/CD Pipeline
+🔗 [github.com/harishvasan-tech/devops-app](https://github.com/harishvasan-tech/devops-app)
+- Multi-container app with Nginx and MySQL
+- Automated CI/CD pipeline using GitHub Actions
+- Docker image build and deployment on every code push
 
 ---
 
-⭐ *Building real-world DevOps projects and sharing my journey*  
+## 🏅 Certifications
+
+- 🏆 Red Hat Certified System Administrator (RHCSA) — Red Hat
+- 📜 NPTEL — Cloud Computing and IoT
+
+---
+
+## 📊 GitHub Stats
+
+
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishvasan-tech&show_icons=true&theme=dark&hide_border=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishvasan-tech&layout=compact&theme=dark&hide_border=true)
+
+
+
+---
+
+## 🌱 Currently Learning
+
+- Terraform — Infrastructure as Code
+- Kubernetes — Container Orchestration
+- Jenkins — Advanced CI/CD Pipelines
+
+---
+
+## 📫 Connect With Me
+
+- 📧 [harishvasann@gmail.com](mailto:harishvasann@gmail.com)
+- 💼 [linkedin.com/in/harishvasan-tech](https://linkedin.com/in/harishvasan-tech)
+- 🐙 [github.com/harishvasan-tech](https://github.com/harishvasan-tech)
+
+---
+
+⭐ *Building real-world DevOps projects one step at a time — open to internship and entry-level DevOps opportunities*
