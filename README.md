@@ -10,6 +10,7 @@
 - 🐧 RHCSA Certified with strong Linux administration skills
 - 🔧 Building real-world DevOps projects with Docker, CI/CD and AWS
 - ☁️ Hands-on experience with AWS EC2, S3, VPC, IAM and CloudWatch
+- 🏗️ Provisioning cloud infrastructure using Terraform (IaC)
 - 📦 Passionate about automation, infrastructure and scalable systems
 - 🎓 B.E. Computer Science — Sri Sairam Engineering College (2023–2027)
 
@@ -24,11 +25,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 Terraform Infrastructure as Code
+🔗 [github.com/harishvasan-tech/terraform-projects](https://github.com/harishvasan-tech/terraform-projects)
+- Provisioned EC2 instance and Security Group using Terraform
+- Used variables, outputs and resource dependencies
+- Full lifecycle — init, plan, apply, destroy
+- Zero manual console clicking — pure Infrastructure as Code
+
+---
 
 ### 🔹 AWS Cloud Projects
 🔗 [github.com/harishvasan-tech/aws-projects](https://github.com/harishvasan-tech/aws-projects)
@@ -70,11 +81,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishvasan-tech&show_icons=true&theme=dark&hide_border=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishvasan-tech&layout=compact&theme=dark&hide_border=true)
+
+
+
+---
+
 ## 🌱 Currently Learning
 
-- Terraform — Infrastructure as Code
+- Terraform — Infrastructure as Code ✅ Started
 - Kubernetes — Container Orchestration
 - Jenkins — Advanced CI/CD Pipelines
+- Python — Automation scripting for DevOps
 
 ---
 
