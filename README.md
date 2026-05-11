@@ -85,8 +85,7 @@
 
 - Terraform — Infrastructure as Code ✅ Started
 - Kubernetes — Container Orchestration
-- Jenkins — Advanced CI/CD Pipelines
-- Python — Automation scripting for DevOps
+
 
 ---
 
