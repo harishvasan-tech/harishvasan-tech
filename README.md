@@ -83,7 +83,7 @@
 
 ## 🌱 Currently Learning
 
-- Terraform — Infrastructure as Code ✅ Started
+- Terraform — Infrastructure as Code 
 - Kubernetes — Container Orchestration
 
 
