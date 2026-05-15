@@ -83,8 +83,8 @@
 
 ## 🌱 Currently Learning
 
-- Terraform — Infrastructure as Code 
 - Kubernetes — Container Orchestration
+- Jenkins — Advanced CI/CD Pipelines
 
 
 ---
