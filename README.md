@@ -11,6 +11,7 @@
 - 🔧 Building real-world DevOps projects with Docker, CI/CD and AWS
 - ☁️ Hands-on experience with AWS EC2, S3, VPC, IAM and CloudWatch
 - 🏗️ Provisioning cloud infrastructure using Terraform (IaC)
+- ☸️ Deploying and managing containerized apps on Kubernetes
 - 📦 Passionate about automation, infrastructure and scalable systems
 - 🎓 B.E. Computer Science — Sri Sairam Engineering College (2023–2027)
 
@@ -22,6 +23,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
@@ -32,9 +34,18 @@
 
 ## 📌 Featured Projects
 
+### 🔹 Kubernetes Projects
+🔗 [github.com/harishvasan-tech/K8-Projects](https://github.com/harishvasan-tech/K8-Projects)
+- Deployed Nginx with 3 replicas using Kubernetes Deployments
+- Created NodePort Service for external access with label-based routing
+- Practiced rolling updates, rollbacks and pod scaling
+- Used ConfigMaps and Secrets for configuration management
+
+---
+
 ### 🔹 Terraform Infrastructure as Code
 🔗 [github.com/harishvasan-tech/terraform-projects](https://github.com/harishvasan-tech/terraform-projects)
-- Provisioned EC2 instance and Security Group using Terraform
+- Provisioned complete AWS VPC, subnet, IGW, route tables and EC2 using Terraform
 - Used variables, outputs and resource dependencies
 - Full lifecycle — init, plan, apply, destroy
 - Zero manual console clicking — pure Infrastructure as Code
@@ -81,11 +92,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishvasan-tech&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishvasan-tech&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## 🌱 Currently Learning
 
 - Kubernetes — Container Orchestration
 - Jenkins — Advanced CI/CD Pipelines
-
+- Python — Automation scripting for DevOps
 
 ---
 
