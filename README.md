@@ -1,111 +1,144 @@
 # 👋 Hi, I'm Harish Vasan S
 
-💻 **Aspiring DevOps Engineer | RHCSA Certified | Cloud & Automation Enthusiast**
+💻 DevOps & Cloud Enthusiast | RHCSA Certified | Linux • AWS • Kubernetes • Terraform  
 📍 Chennai, India
 
 ---
 
 ## 🚀 About Me
 
-- 🐧 RHCSA Certified with strong Linux administration skills
-- 🔧 Building real-world DevOps projects with Docker, CI/CD and AWS
-- ☁️ Hands-on experience with AWS EC2, S3, VPC, IAM and CloudWatch
-- 🏗️ Provisioning cloud infrastructure using Terraform (IaC)
-- ☸️ Deploying and managing containerized apps on Kubernetes
-- 📦 Passionate about automation, infrastructure and scalable systems
-- 🎓 B.E. Computer Science — Sri Sairam Engineering College (2023–2027)
+- 🐧 RHCSA Certified with strong Linux system administration skills
+- ☁️ Hands-on experience with AWS cloud services including EC2, S3, IAM, VPC, and CloudWatch
+- 🐳 Building and deploying containerized applications using Docker and Docker Compose
+- ☸️ Learning Kubernetes orchestration with Deployments, Services, scaling, rolling updates, and namespaces
+- 🏗️ Provisioning cloud infrastructure using Terraform (Infrastructure as Code)
+- 🔄 Implementing CI/CD pipelines using GitHub Actions
+- 📦 Passionate about automation, cloud infrastructure, distributed systems, and DevOps practices
+- 🎓 B.E. Computer Science and Engineering — Sri Sairam Engineering College (2023–2027)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
-</p>
+### Operating Systems
+- Linux (RHCSA)
+- Ubuntu
+
+### Cloud & DevOps
+- AWS
+- Docker
+- Docker Compose
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Git
+- CI/CD
+
+### AWS Services
+- EC2
+- S3
+- IAM
+- VPC
+- CloudWatch
+- SNS
+
+### Scripting & Programming
+- Bash
+- Java
+- Shell Scripting
+
+### Networking & Concepts
+- Linux Administration
+- Infrastructure as Code (IaC)
+- Containerization
+- Networking Basics
+- Monitoring & Logging
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Kubernetes Projects
-🔗 [github.com/harishvasan-tech/K8-Projects](https://github.com/harishvasan-tech/K8-Projects)
-- Deployed Nginx with 3 replicas using Kubernetes Deployments
-- Created NodePort Service for external access with label-based routing
-- Practiced rolling updates, rollbacks and pod scaling
-- Used ConfigMaps and Secrets for configuration management
+🔗 github.com/harishvasan-tech/K8-Projects
+
+- Deployed Nginx applications using Kubernetes Deployments
+- Implemented Services, namespaces, scaling, rolling updates, and rollbacks
+- Practiced ConfigMaps and Secrets for configuration management
+- Worked with Horizontal Pod Autoscaling (HPA)
 
 ---
 
 ### 🔹 Terraform Infrastructure as Code
-🔗 [github.com/harishvasan-tech/terraform-projects](https://github.com/harishvasan-tech/terraform-projects)
-- Provisioned complete AWS VPC, subnet, IGW, route tables and EC2 using Terraform
-- Used variables, outputs and resource dependencies
-- Full lifecycle — init, plan, apply, destroy
-- Zero manual console clicking — pure Infrastructure as Code
+🔗 github.com/harishvasan-tech/terraform-projects
+
+- Provisioned AWS infrastructure using Terraform
+- Created VPC, subnets, route tables, Internet Gateway, and EC2 instances
+- Used variables, outputs, and resource dependencies
+- Managed full Terraform lifecycle: init, plan, apply, and destroy
 
 ---
 
 ### 🔹 AWS Cloud Projects
-🔗 [github.com/harishvasan-tech/aws-projects](https://github.com/harishvasan-tech/aws-projects)
-- Launched EC2 and deployed multi-container app on cloud
-- Created S3 bucket with IAM role — zero hardcoded credentials
-- Built custom VPC with public subnet, Internet Gateway and route tables
-- Set up CloudWatch monitoring with CPU alarms and SNS notifications
+🔗 github.com/harishvasan-tech/aws-projects
+
+- Deployed applications on AWS EC2 instances
+- Configured IAM roles for secure AWS access
+- Built custom VPC networking infrastructure
+- Implemented CloudWatch monitoring and SNS alerts
 
 ---
 
-### 🔹 Bash Automation Toolkit
-🔗 [github.com/harishvasan-tech/Bash-Scripts](https://github.com/harishvasan-tech/Bash-Scripts)
-- Automated backup system with timestamped compression
-- Logging, backup rotation and cron scheduling
-- Input validation and production-grade error handling
+### 🔹 Bash Automation Scripts
+🔗 github.com/harishvasan-tech/Bash-Scripts
+
+- Automated Linux backup and recovery workflows
+- Implemented cron scheduling, compression, and logging
+- Built reusable shell scripts for system administration tasks
 
 ---
 
 ### 🔹 Docker Compose Projects
-🔗 [github.com/harishvasan-tech/docker-compose-projects](https://github.com/harishvasan-tech/docker-compose-projects)
-- Multi-container applications using Docker Compose
-- WordPress + MySQL deployed locally and on AWS EC2
-- Container networking, persistent volumes and environment variables
+🔗 github.com/harishvasan-tech/docker-compose-projects
+
+- Built multi-container applications using Docker Compose
+- Deployed WordPress and MySQL containers locally and on AWS
+- Configured networking, persistent volumes, and environment variables
 
 ---
 
-### 🔹 DevOps Application — CI/CD Pipeline
-🔗 [github.com/harishvasan-tech/devops-app](https://github.com/harishvasan-tech/devops-app)
-- Multi-container app with Nginx and MySQL
-- Automated CI/CD pipeline using GitHub Actions
-- Docker image build and deployment on every code push
+### 🔹 DevOps CI/CD Application
+🔗 github.com/harishvasan-tech/devops-app
+
+- Implemented CI/CD pipelines using GitHub Actions
+- Automated Docker image build and deployment workflows
+- Integrated containerized services with Nginx and MySQL
 
 ---
 
 ## 🏅 Certifications
 
-- 🏆 Red Hat Certified System Administrator (RHCSA) — Red Hat
-- 📜 NPTEL — Cloud Computing and IoT
+- 🏆 Red Hat Certified System Administrator (RHCSA)
+- 📜 NPTEL — Cloud Computing
+- 📜 NPTEL — Internet of Things (IoT)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Kubernetes — Container Orchestration
-- Jenkins — Advanced CI/CD Pipelines
-- Python — Automation scripting for DevOps
+- Advanced Kubernetes
+- Jenkins
+- Linux Networking
+- Monitoring & Observability
+- Hadoop & Distributed Systems
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 [harishvasann@gmail.com](mailto:harishvasann@gmail.com)
-- 💼 [linkedin.com/in/harishvasan-tech](https://linkedin.com/in/harishvasan-tech)
-- 🐙 [github.com/harishvasan-tech](https://github.com/harishvasan-tech)
+- 📧 Email: sharishvasann@gmail.com
+- 💼 LinkedIn: linkedin.com/in/harishvasan-tech
+- 🐙 GitHub: github.com/harishvasan-tech
 
 ---
 
-⭐ *Building real-world DevOps projects one step at a time — open to internship and entry-level DevOps opportunities*
+⭐ Building real-world DevOps projects one step at a time and actively seeking DevOps internships and cloud engineering opportunities.
