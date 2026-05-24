@@ -129,7 +129,6 @@
 - Jenkins
 - Linux Networking
 - Monitoring & Observability
-- Hadoop & Distributed Systems
 
 ---
 
