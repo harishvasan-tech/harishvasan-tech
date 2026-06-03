@@ -140,4 +140,4 @@
 
 ---
 
-⭐ Building real-world DevOps projects one step at a time and actively seeking DevOps internships and cloud engineering opportunities.
+⭐ Building real-world DevOps projects one step at a time and actively seeking DevOps internships and cloud engineering opportunities
