@@ -125,7 +125,7 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Kubernetes
+- Kubernetes
 - Jenkins
 - Linux Networking
 - Monitoring & Observability
