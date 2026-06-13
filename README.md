@@ -119,7 +119,7 @@
 
 - 🏆 Red Hat Certified System Administrator (RHCSA)
 - 📜 NPTEL — Cloud Computing
-- 📜 NPTEL — Internet of Things (IoT)
+- 📜 NPTEL — Internet of Things 
 
 ---
 
